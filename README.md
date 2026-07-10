@@ -1,5 +1,7 @@
 🚀 Flutter Developer
 📱 Building Android Apps with Flutter
-💡 Learning Mobile App Architecture & Firebase
+🔥 Crafting Clean UI & Scalable Architecture
+☁️ Firebase • Riverpod • REST APIs
+
+🌐 https://redfstudios.com
 📫 naveenmehta7050@gmail.com
-   redfstudios.com
